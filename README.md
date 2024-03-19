@@ -1,2 +1,2 @@
-# Markting
+# Marketing
 website about marketing App
